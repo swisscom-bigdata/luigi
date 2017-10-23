@@ -1,3 +1,7 @@
+luigi (2.4.1-SWISSCOM) snapshot; urgency=low
+
+  * See https://github.com/swisscom-bigdata/luigi/releases/tag/2.4.1-SWISSCOM
+
 luigi (2.4.0) stable; urgency=low
 
   * See https://github.com/spotify/luigi/releases/tag/2.4.0
